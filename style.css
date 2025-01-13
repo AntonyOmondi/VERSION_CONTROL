@@ -1,0 +1,144 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background-color: rgb(124, 165, 236);
+
+}
+
+.community h1 {
+    margin-top: 40px;
+    font-size: larger;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+.community p {
+    font-size: 15px;
+}
+
+.community nav {
+    padding: 20px;
+    margin-top: 20px;
+    font-size: larger;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    margin: 8px;
+}
+
+.header {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    min-height: 100px;
+}
+
+nav a:hover {
+    text-decoration: none;
+    columns: rgb(185, 25, 25);
+    padding: 5px 20px;
+    border: 1px solid rgb(183, 30, 30);
+    color: red;
+}
+
+main {
+    text-align: center;
+    align-items: center;
+}
+
+footer {
+    margin-top: 80px;
+    text-align: center;
+}
+
+.home {
+    padding: 40px;
+}
+
+.home p {
+    text-align: left;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.services {
+    padding: 20px;
+    border: 1px solid black;
+    margin: 10px;
+
+}
+
+.services p {
+    padding: 20px;
+    text-align: left;
+    border: 1px solid black;
+}
+
+.aboutus {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.contacts {
+    padding: 100px;
+}
+
+img {
+    height: 300px;
+    width: 500px;
+    padding: 0;
+    align-items: center;
+}
+
+.email {
+    text-decoration: none;
+}
+
+.email:hover {
+    text-decoration: underline;
+    color: rgb(85, 30, 30);
+}
+
+.parent {
+    border: 1px solid black;
+    margin: 8px;
+}
+
+.left {
+    float: left;
+    width: 50%;
+    align-items: center;
+}
+
+.right {
+    float: right;
+    width: 49%;
+    padding: 2px;
+}
+
+fieldset {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 8px;
+}
+
+textarea {
+    background-color: aliceblue;
+}
+
+.submit {
+    margin: 20px;
+    width: 10rem;
+}
+
+.submit:hover {
+    margin: 20px;
+    width: 100px;
+    color: aliceblue;
+
+}
