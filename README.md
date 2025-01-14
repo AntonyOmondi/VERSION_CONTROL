@@ -16,6 +16,12 @@ For the `nav` bar in `html`
 
 For the `nav` bar in `css`
 
+      ```nav a:hover {
+    text-decoration: none;
+    columns: rgb(185, 25, 25);
+    padding: 5px 20px;
+    border: 1px solid rgb(183, 30, 30);
+    color: red;```
 
 
 
