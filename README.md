@@ -6,6 +6,7 @@ The `html` and `css` snippets can be seen below!
 
 
 For the `nav` bar in `html`
+
       ```<nav>
             <a href="#home">Home</a>
             <a href="#services">Services</a>
