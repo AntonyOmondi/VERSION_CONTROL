@@ -24,7 +24,8 @@ For the `nav` bar in `css`
     color: red;```
 
 ## Services 
-The services offered are ==catering==, ==electical==, ==farming== and ==plumbing==
+The services offered are <mark>catering</mark>, <mark>electrical</mark>, <mark>farming</mark> and <mark>plumbing</mark>.
+
 They are captured using an anchor tag `<a></a>`
 
 
