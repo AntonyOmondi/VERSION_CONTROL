@@ -14,7 +14,7 @@ For the `nav` bar in `html`
             <a href="#contacts">Contacts</a>
         </nav>```
 
-      
+For the `nav` bar in `css`
 
 
 
