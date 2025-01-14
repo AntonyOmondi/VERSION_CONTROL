@@ -12,17 +12,16 @@ For the `nav` bar in `html`
             <a href="#aboutus">About Us</a>
             <a href="#contacts">Contacts</a>
         </nav>```
-        
+
+      
 For the above code `css` styling
 
-      ```nav a:hover {
-    text-decoration: none;
-    columns: rgb(185, 25, 25);
-    padding: 5px 20px;
-    border: 1px solid rgb(183, 30, 30);
-    color: red;
-}
-```
+      ```       nav a:hover {
+          text-decoration: none;
+          columns: rgb(185, 25, 25);
+          padding: 5px 20px;
+          border: 1px solid rgb(183, 30, 30);
+          color: red;}```
 
 
 
